@@ -31,21 +31,8 @@ online-learning-management-system/
 ├── app.py
 ├── database.db
 └── README.md
-
-## 🚀 How to Run the Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/online-learning-management-system.git
-   cd online-learning-management-system
-2.Install required packages
-    pip install -r requirements.txt
-3.Run the app
-    python app.py
-4.Open in browser
-    http://localhost:5000
 ## Future Improvements
-Add video streaming support
-Add certificate generation after course completion
-Integrate payment gateway for paid courses
-Add discussion forums or chat support
+  1. Add video streaming support
+  2. Add certificate generation after course completion
+  3. Integrate payment gateway for paid courses
+  4. Add discussion forums or chat support
